@@ -1,4 +1,4 @@
-import { sortArray } from "./heap_sort";
+import { sortArray } from "./heapSort";
 
 describe("sortArray", () => {
     it("should return an empty array when given an empty array", () => {

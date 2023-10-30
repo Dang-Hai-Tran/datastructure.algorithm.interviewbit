@@ -1,4 +1,4 @@
-import { heightChecker } from "./height_checker";
+import { heightChecker } from "./heightChecker";
 
 describe("heightChecker", () => {
     it("should return 0 when input array is already sorted in ascending order", () => {

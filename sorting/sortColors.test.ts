@@ -1,4 +1,4 @@
-import { sortColors } from "./sort_colors";
+import { sortColors } from "./sortColors";
 
 describe("sortColors", () => {
     it("should sort the colors in ascending order", () => {
